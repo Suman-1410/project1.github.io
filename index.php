@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SCHOLARSERA</title>
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="home.css">
+
+    <!-- custom js file link  -->
+    <script src="home.js" defer></script>
+
+</head>
+<body>
+    
+<!-- header section starts  -->
+
+<div id="menu-btn" class="fas fa-bars"></div>
+
+<header class="header">
+
+    <a href="index11.php#" class="logo"> <i class="fas fa-graduation-cap"></i> SCHOLARSERA </a>
+
+    <nav class="navbar">
+
+        
+        <a href="#home"> <i class="fas fa-angle-right"></i> home </a>
+        <a href="#about"> <i class="fas fa-angle-right"></i> about </a>
+        <a class="nav-link" aria-current="page" href="#scholarships"> <i class="fas fa-angle-right"></i> Scolarships </a>
+        <a href="#reviews"> <i class="fas fa-angle-right"></i> reviews </a>
+        <a href="#contact"> <i class="fas fa-angle-right"></i> contact us </a>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        
+    </nav>
+
+    <div class="share">
+        <a href="https://www.facebook.com#" class="fab fa-facebook-f"></a>
+        <a href="https://www.twitter.com#" class="fab fa-twitter"></a>
+        <a href="https://www.instagram.com#" class="fab fa-instagram"></a>
+        <a href="https://www.linkedin.com#" class="fab fa-linkedin"></a>
+    </div>
+
+    <p class="credit">created by <span>group-D</span></p>
+
+</header>
+
+<!-- header section ends -->
+
+<!-- home section starts  -->
+
+<section class="home" id="home">
+
+    <div class="image">
+        <img src="images/5853.jpg" alt="">
+    </div>
+
+    <div class="content">
+        <span>scholarship portal</span>
+        <h3>A better future can start with us. <a href="login.php">get started</a></h3>
+        <p>We are providing scholarships all over INDIA. Our site is very comfortable for scholaships to visit.</p>
+        <a class="btn" href="sholarships.php">our Scolarships</a>
+
+</section>
+
+<!-- home section ends -->
+
+<!-- info section starts  -->
+
+<section class="info-container">
+
+    <div class="box">
+        <i class="fas fa-user-graduate"></i>
+        <div class="info">
+            <h3>450+</h3>
+            <p>students</p>
+        </div>
+    </div>
+
+    <div class="box">
+        <i class="fas fa-laptop-code"></i>
+        <div class="info">
+            <h3>70+</h3>
+            <p>scholarships</p>
+        </div>
+    </div>
+
+    <div class="box">
+        <i class="fas fa-book"></i>
+        <div class="info">
+            <h3>520+</h3>
+            <p>pendings</p>
+        </div>
+    </div>
+
+</section>
+
+<!-- info section ends -->
+
+<!-- about section starts  -->
+
+<section class="about" id="about">
+
+    <div class="image">
+        <img src="images/about1.svg" alt="">
+    </div>
+
+    <div class="content">
+        <span>about us</span>
+        <h3>best platform for scholarship.</h3>
+        <p>Our thinkings.</p>
+        <a href="#" class="btn">read more</a>
+    </div>
+
+</section>
+
+<!-- about section ends -->
+
+<!-- scholarships section starts  -->
+
+<section class="scholarships" id="scholarships">
+
+    <div class="heading">
+        <span>our top scholarships</span>
+        <h3>popular scholarships</h3>
+    </div>
+
+    <div class="box-container">
+
+        <div class="box">
+            <div class="image">
+                <img src="images/Nerd.svg" alt="">
+                <h3>MANIPAL</h3>
+            </div>
+            <div class="content">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <h3>Manipal</h3>
+                <p>Manipal is one of India's leading academic and research institutions. It has been granted Institution of Eminence status by the Ministry of Human Resource Development, Government of India.</p>
+                <a href="https://manipal.edu/mu.html#" class="btn">MORE</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/Learning.svg" alt="">
+                <h3>VIT</h3>
+            </div>
+            <div class="content">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <h3>VIT</h3>
+                <p>VIT was established with the aim of providing quality higher education on par with international standards.</p>
+                <a href="https://vit.ac.in/#" class="btn">MORE</a>
+            </div>
+        </div>    
+
+        
+
+        <div class="box">
+            <div class="image">
+                <img src="images/sch1.svg" alt="">
+                <h3>LPU</h3>
+            </div>
+            <div class="content">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star-half-alt"></i>
+                </div>
+                <h3>LPU</h3>
+                <p>Lovely Professional University is recognized by the University Grants Commission(UGC), a statutory body of the Government of India.</p>
+                <a href="https://www.lpu.in/#" class="btn">MORE</a>
+            </div>
+        </div>
+
+</section>
+
+<!-- scholarships section ends -->
+
+
+<!-- more section starts  -->
+
+<section class="about" id="about">
+
+    <div class="image">
+        <img src="images/Education-pana.svg" alt="">
+    </div>
+
+    <div class="content">
+        <span>More Scholarships</span>
+        <p>We providing more scholarships here please check out here for all types of Scholarships.</p>
+        <a href="sholarships.php" class="btn">more</a>
+    </div>
+
+</section>
+
+<!-- more section ends -->
+
+<!-- reviews section starts  -->
+
+<section class="reviews" id="reviews">
+
+    <div class="heading">
+        <span>our reviews</span>
+        <h3>what we say?</h3>
+    </div>
+
+    <div class="box-container">
+
+        <div class="box">
+            <img src="images/User.gif" alt="">
+            <h3>Shovan</h3>
+            <p>THINKING</p>
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star-half-alt"></i>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/User.gif" alt="">
+            <h3>Rajesh</h3>
+            <p>THINKING</p>
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star-half-alt"></i>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/User.gif" alt="">
+            <h3>Subhajit</h3>
+            <p>THINKING</p>
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star-half-alt"></i>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/User.gif" alt="">
+            <h3>Suman</h3>
+            <p>THINKING</p>
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star-half-alt"></i>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/User.gif" alt="">
+            <h3>Indrajit</h3>
+            <p>THINKING</p>
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star-half-alt"></i>
+            </div>
+        </div>
+
+
+        <div class="box">
+            <img src="images/User.gif" alt="">
+            <h3>Gourab</h3>
+            <p>THINKING</p>
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star-half-alt"></i>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/User.gif" alt="">
+            <h3>Amit</h3>
+            <p>THINKING</p>
+            <div class="stars">
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star"></i>
+                <i class="fas fa-star-half-alt"></i>
+            </div>
+        </div>
+
+
+
+    </div>
+
+</section>
+
+<!-- reviews section ends -->
+
+
+<!-- contact section starts  -->
+
+<section class="contact" id="contact">
+
+    <div class="heading">
+        <span>contact us</span>
+        <h3>get in touch</h3>
+    </div>
+
+    <div class="row">
+
+        <div class="contact-info-container">
+
+            <div class="box">
+                <i class="fas fa-phone"></i>
+                <div class="info">
+                    <h3>phone :</h3>
+                    <p>+</p>
+                    <p>+</p>
+                </div>
+            </div>
+
+            <div class="box">
+                <i class="fas fa-envelope"></i>
+                <div class="info">
+                    <h3>email :</h3>
+                    <p></p>
+                    <p></p>
+                </div>
+            </div>
+
+            <div class="box">
+                <i class="fas fa-map"></i>
+                <div class="info">
+                    <h3>address :</h3>
+                    <p></p>
+                </div>
+            </div>
+
+            <div class="share">
+                <a href="https://www.facebook.com#" class="fab fa-facebook-f"></a>
+                <a href="https://www.twitter.com#" class="fab fa-twitter"></a>
+                <a href="https://www.instagram.com#" class="fab fa-instagram"></a>
+                <a href="https://www.linkedin.com#" class="fab fa-linkedin"></a>
+            </div>
+            
+        </div>
+
+        <form action="userinfo.php" method="post">
+            <div class="inputBox">
+                <input type="text" placeholder="name" name="user" id="" required>
+                <input type="email" placeholder="email" name="email" id="" required>
+            </div>
+            <div class="inputBox">
+                <input type="number" placeholder="phone" name="mobile" id="" required>
+                <!--<input type="text" placeholder="subject" name="" id="">-->
+            </div>
+            <textarea name="comments" placeholder="message" id="" cols="30" rows="10" required></textarea>
+            <input type="submit" value="send message" class="btn">
+        </form>
+
+    </div>
+
+</section>
+
+<!-- contact section ends -->
+
+</body>
+</html>
